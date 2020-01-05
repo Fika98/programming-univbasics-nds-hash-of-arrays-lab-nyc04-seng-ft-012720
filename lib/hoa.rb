@@ -11,5 +11,5 @@ def add_character(show, name)
   B
 end
 
-add_character(:chipmunks, "Dave")
+add_character(:chipmunks,"Dave")
 
